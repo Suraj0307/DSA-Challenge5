@@ -1,7 +1,7 @@
 # DSA-Challenge5
 #### This is a very interesting project on Data Structures and Algorithms
 Design an algorithm that can search, sort all sorts of file formats, as well as separate various file formats in your system by category and create folders for different file formats to store them.
-### Watch this for complete tutorial https://www.youtube.com/watch?v=BsnWubbDVqs
+### Watch this for complete tutorial https://youtu.be/ZryZJOdkdoI
 
 ### Prerequisites:
 1) You must have node js in your system
